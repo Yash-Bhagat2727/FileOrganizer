@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Activity logs
+organizer_log.txt
+
+# Temporary test files
+dryrun_test.txt
+test3.txt
+test4.txt
+
+# VS Code settings
+.vscode/
+TestFiles/
